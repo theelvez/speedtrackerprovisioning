@@ -1,0 +1,14 @@
+device_id=1
+vehicle_id=3
+finishLine_left_lng=47.54681
+finishLine_left_lat=-122.03827
+finishLine_right_lng=47.54665
+finishLine_right_lat=-122.03803
+upload_server_ssid=st_pit
+upload_server_password=sp33dtrack3r
+upload_server_url=http://192.168.0.54:8080/upload_run_data
+upload_server_block_on_upload=0
+battery_report_voltage=1
+bamf_speed=0.00
+pressure_baseline=1010.0
+screen_brightness=0
